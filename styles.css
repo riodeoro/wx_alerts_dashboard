@@ -1,0 +1,266 @@
+@font-face {
+  font-family: "Myriad Pro";
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-top: 60px;
+  margin-bottom: 100px;
+  font-family: "Myriad Pro", Calibri, Arial, "sans serif";
+  color: #494949;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+  max-width: 100%;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar-default {
+  background-color: #036;
+  border-bottom: 2px solid #fcba19;
+  color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #fff;
+}
+
+.navbar-nav>li>a {
+  font-size: 13px;
+}
+
+.navbar-default .navbar-nav>li>a:focus, 
+.navbar-default .navbar-nav>li>a:hover {
+  color: #f0f0f0;
+  text-decoration: underline;
+}
+
+.nav-logo {
+  height: 40px;
+  margin: 5px 10px 5px 0;
+  float: left;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 0 0.75rem 1.5rem;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e1e4e8;
+  margin-bottom: 1rem;
+  height: 60px;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  height: 100%;
+  overflow: hidden;
+}
+
+.navbar-title {
+  float: left;
+  height: 50px;
+  padding: 15px;
+  font-size: 24px;
+  line-height: 20px;
+  color: #ffffff;
+  font-weight: bold;
+  pointer-events: none;
+  user-select: none;
+}
+
+.fetch-controls-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.fetch-controls-content {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: #ffffff;
+  min-width: 300px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  border: 1px solid #e1e4e8;
+  border-radius: 4px;
+  padding: 1rem;
+  z-index: 1000;
+}
+
+.fetch-controls-dropdown.active .fetch-controls-content {
+  display: block;
+}
+
+.fetch-controls-content:hover,
+.fetch-controls-content:focus-within {
+  display: block;
+}
+
+.btn-primary {
+  background-color: #003366;
+  border: none;
+  color: #ffffff;
+  padding: 0.5rem 1rem;
+  font-weight: 600;
+  border-radius: 4px;
+}
+
+#fetch_controls_btn.btn-primary {
+  background-color: #003366;
+  border: 2px solid #fcba19;
+  color: #ffffff;
+  padding: 0.75rem 1.5rem;
+  font-weight: 700;
+  border-radius: 4px;
+  font-size: 16px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: all 0.2s ease-in-out;
+}
+
+#fetch_controls_btn.btn-primary:hover {
+  background-color: #38598a;
+  border-color: #fdd667;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.btn-primary:hover {
+  background-color: #38598a;
+  border-color: #fdd667;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.card {
+  background-color: #ffffff;
+  border: 1px solid #e1e4e8;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.output-card {
+  padding: 1rem;
+  background-color: #ffffff;
+  border: 1px solid #e1e4e8;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.scrollable-output {
+  max-height: clamp(200px, 40vh, 500px);
+  min-height: 100px;
+  overflow-y: auto;
+  background-color: #f8f9fc;
+  border: 1px solid #e1e4e8;
+  padding: .75rem;
+  font-family: "Consolas", monospace;
+}
+
+.nav-pills .nav-link {
+  color: #494949;
+  border-radius: 4px;
+}
+
+.nav-pills .nav-link.active {
+  background-color: #38598a;
+  color: #ffffff;
+}
+
+/* Progress bar styling */
+.shiny-progress-container {
+  margin-bottom: 60px !important;
+}
+
+/* BCGOV Footer Guidelines */
+#footer #footerWrapper {
+  width: 100%;
+  bottom: 0;
+}
+
+#footer {
+  background-color: #003366;
+  border-top: 2px solid #fcba19;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+}
+
+#footerAdminSection {
+  background-color: #003366;
+}
+
+#footerAdminLinks {
+  clear: both;
+}
+
+#footerAdminSection ul {
+  clear: both;
+  padding: 10px 0;
+}
+
+ul.inline {
+  list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  text-align: center;
+}
+
+ul.inline li {
+  display: inline-block;
+  padding: 2px 10px;
+  position: relative;
+}
+
+img.back-to-top.footer-overlap {
+  position: absolute;
+  top: -63px;
+}
+
+img.back-to-top {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  opacity: 0.75;
+  filter: alpha(opacity=75);
+  z-index: 1100;
+  cursor: pointer;
+  display: none;
+  vertical-align: middle;
+  border: 0;
+}
+
+#footer a, #footer h2 {
+  color: #fff;
+}
+
+a {
+  color: #1a5a96;
+}
+
+ul.inline li a:link, nav ul.inline li a:visited {
+  color: white;
+  display: block;
+  text-align: center;
+}
