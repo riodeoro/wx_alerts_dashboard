@@ -48,8 +48,9 @@ create_db_connection <- function() {
 
 # Core files
 source("ui_definition.R")
-source("global_functions.R")
 source("global_resources.R")
+source("global_functions.R")
+
 
 addResourcePath("www", "www")
 
