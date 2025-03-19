@@ -1,0 +1,347 @@
+STATION,STATION_CODE,DATA_SOURCE,SITE_TYPE,OWNER,FIRE_CENTRE,FIRE_ZONE,LATITUDE,LONGITUDE,ELEVATION,or_site_id,site_id,client_id,system_id
+14G (CRD),1142,Capital Regional District,External,Capital Regional District,Coastal Fire Centre,South Island Zone,48.4944,-123.6139,485,NA,NA,NA,NA
+31N (CRD),543,Capital Regional District,External,Capital Regional District,Coastal Fire Centre,South Island Zone,48.5297,-123.6375,600,NA,NA,NA,NA
+4RW6 (CRD),1143,Capital Regional District,External,Capital Regional District,Coastal Fire Centre,South Island Zone,48.5861,-123.7494,665,NA,NA,NA,NA
+AFTON,322,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),50.6727,-120.4822,693,395,96.1.70.251:48006;0x0141-0x0142,f123a2e6-fdcf-460a-bfd1-409f859bb62d,27
+AKOKLI CREEK,838,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Southeast Fire Centre,Kootenay Lake Zone,49.4358,-116.7464,821,NA,NA,NA,NA
+ALEXIS CREEK,209,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Cariboo Fire Centre,Chilcotin Zone,52.0838,-123.2733,791,NA,NA,NA,NA
+ALLISON PASS,317,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Fraser Zone,49.0625,-120.7668,1174,NA,NA,NA,NA
+ANAHIM LAKE,213,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Cariboo Fire Centre,Chilcotin Zone,52.4606,-125.307,1097,NA,NA,NA,NA
+ANDERSON CREEK,977,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Fraser Zone,49.6551,-121.3576,655,NA,NA,NA,NA
+APE LAKE,1275,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Mid Coast),52.1346,-126.2627,1414,NA,NA,NA,NA
+ASHCROFT (EC),1173,Environment Canada,External,Environment Canada,Kamloops Fire Centre,Kamloops Zone (Kamloops),50.7084,-121.2812,327,NA,NA,NA,NA
+ASHNOLA,331,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Penticton Zone,49.1391,-120.1844,1683,NA,NA,NA,NA
+ASPEN GROVE,302,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Kamloops Fire Centre,Merritt Zone,49.9481,-120.6211,1065,NA,NA,NA,NA
+ATLIN,111,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Cassiar Zone,59.5845,-133.6643,719,NA,NA,NA,NA
+ATTACHIE PLATEAU,1243,Non-Reporting,External,NA,Prince George Fire Centre,Fort St. John Zone,56.2327,-121.4664,646,NA,NA,NA,NA
+AUGIER LAKE,167,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Nadina Zone (Lakes),54.3619,-125.5253,927,NA,NA,NA,NA
+AUGUST LAKE,836,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Kamloops Fire Centre,Merritt Zone,49.4335,-120.4571,855,NA,NA,NA,NA
+BAKER,503,Auto-Caller,Hub Station,BC Wildfire Service,Southeast Fire Centre,Cranbrook Zone,49.4589,-115.6303,2262,NA,NA,NA,NA
+BALDFACE,221,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Cariboo Fire Centre,Chilcotin Zone,52.7101,-124.4822,1666,NA,NA,NA,NA
+BEAR FLAT,1244,Non-Reporting,External,NA,Prince George Fire Centre,Fort St. John Zone,56.2751,-121.2127,474,NA,NA,NA,NA
+BEAR LAKE,149,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,Prince George Zone,54.4824,-122.6829,715,NA,NA,NA,NA
+BEAVER CREEK,37,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Mid Island Zone,49.3776,-124.9337,121,NA,NA,NA,NA
+BEAVERDELL,390,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Southeast Fire Centre,Boundary Zone,49.4564,-119.0886,807,NA,NA,NA,NA
+BEDNESTI,175,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,Prince George Zone,53.8654,-123.3232,858,NA,NA,NA,NA
+BEGBIE DL,509,Non-Reporting,Download,BC Wildfire Service,Cariboo Fire Centre,100 Mile House Zone,51.4733,-121.36,1276,NA,NA,NA,NA
+BELL-IRVING,432,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Skeena Zone (Kalum),56.3486,-129.2928,391,595,66ad65d299a271067ca51c21,f123a2e6-fdcf-460a-bfd1-409f859bb62d,8
+BELLA BELLA (EC),1851,Environment Canada,External,Environment Canada,Coastal Fire Centre,North Island Mid Coast Zone (Mid Coast),52.3619,-128.88,43,NA,NA,NA,NA
+BENSON,228,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Cariboo Fire Centre,Quesnel Zone,52.91,-122.065,1006,NA,NA,NA,NA
+BERRY,267,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),51.9788,-119.4134,1469,NA,NA,NA,NA
+BIG MOUTH 2,868,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Columbia Zone,51.8533,-118.5914,1091,NA,NA,NA,NA
+BIG SILVER 2,1040,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Fraser Zone,49.7234,-121.8366,570,NA,NA,NA,NA
+BIG VALLEY,262,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Cariboo Fire Centre,Quesnel Zone,53.2617,-121.7617,1355,NA,NA,NA,NA
+BIGATTINI,2450,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Southeast Fire Centre,Cranbrook Zone,49.4539,-115.9872,1540,NA,NA,NA,NA
+BLACKPINE,148,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Mackenzie Zone,56.3188,-125.368,1126,NA,NA,NA,NA
+BLAEBERRY,866,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Southeast Fire Centre,Columbia Zone,51.4357,-117.0571,861,NA,NA,NA,NA
+BLOWDOWN PASS PROJECT,3730,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Lillooet Zone,50.4388,-122.2422,1366,NA,NA,NA,NA
+BLUE RIVER 2,1108,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,Robson Valley Zone,52.1223,-119.2936,684,NA,NA,NA,NA
+BLUEBERRY,4352,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Robson Valley Zone,53.3159,-119.6007,1088,NA,NA,NA,NA
+BOB QUINN LAKE,113,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Cassiar Zone,56.9809,-130.251,605,NA,NA,NA,NA
+BOOTHROYD,1339,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Fraser Zone,49.9754,-121.4892,361,NA,NA,NA,NA
+BOULDER CREEK,1240,Auto-Caller,Weather Station - GOES,Parks Canada,Southeast Fire Centre,Columbia Zone,51.3664,-116.5264,1275,NA,NA,NA,NA
+BOWRON HAGGEN,193,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,Prince George Zone,53.463,-121.5603,927,NA,NA,NA,NA
+BOWSER,56,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Coastal Fire Centre,Mid Island Zone,49.4368,-124.7022,108,NA,NA,NA,NA
+BOYA LAKE,445,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Cassiar Zone,59.3673,-129.111,742,NA,NA,NA,NA
+BRENDA MINES,283,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Kamloops Fire Centre,Penticton Zone,49.8684,-119.9925,1463,NA,NA,NA,NA
+BRISCO,865,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Southeast Fire Centre,Invermere Zone,50.8193,-116.2449,930,NA,NA,NA,NA
+BURNS LAKE 850M,181,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Northwest Fire Centre,Nadina Zone (Lakes),54.2591,-125.7598,824,NA,NA,NA,NA
+CAHILTY,253,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),50.8879,-119.8383,1543,NA,NA,NA,NA
+CALLAGHAN VALLEY (EC),896,Environment Canada,External,Environment Canada,Coastal Fire Centre,Pemberton Zone,50.1443,-123.1093,869,NA,NA,NA,NA
+CAMPBELL RIVER AP (EC),26,Environment Canada,External,Environment Canada,Coastal Fire Centre,North Island Mid Coast Zone (Campbell River),50,-125.3,106,NA,NA,NA,NA
+CAPILANO GVRD,554,Auto-Caller,Weather Station - GOES,Greater Vancouver Water District,Coastal Fire Centre,Fraser Zone,49.44,-123.097,400,NA,NA,NA,NA
+CARIBOO  SF,510,Non-Reporting,Store Forward,BC Wildfire Service,Cariboo Fire Centre,Quesnel Zone,52.8517,-121.6633,1933,NA,NA,NA,NA
+CARIBOO CREEK,1790,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Invermere Zone,51.1753,-117.1757,1529,NA,NA,NA,NA
+CARIBOU CORNER,1262,Auto-Caller,Weather Station - GOES,Parks Canada,Southeast Fire Centre,Columbia Zone,51.0253,-118.1514,1561,NA,NA,NA,NA
+CASEY SF,1076,Non-Reporting,Store Forward,BC Wildfire Service,Southeast Fire Centre,Cranbrook Zone,49.2514,-115.4133,1640,NA,NA,NA,NA
+CASTLE   SF,493,Non-Reporting,Store Forward,BC Wildfire Service,Southeast Fire Centre,Invermere Zone,51.05,-116.4692,485,NA,NA,NA,NA
+CASTLEGAR (EC),395,Environment Canada,External,Environment Canada,Southeast Fire Centre,Arrow Zone,49.3,-117.6,495,NA,NA,NA,NA
+CATFISH,199,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Prince George Zone,53.5764,-120.8585,871,NA,NA,NA,NA
+CEDAR,59,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Coastal Fire Centre,Mid Island Zone,49.0476,-123.8747,31,NA,NA,NA,NA
+CEDARVALE,429,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Bulkley Zone (Kispiox),55.0301,-128.3115,174,618,66bf960b00e01a5a0ce7919e,f123a2e6-fdcf-460a-bfd1-409f859bb62d,8
+CHEAKAMUS,1283,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Coastal Fire Centre,Pemberton Zone,50.0835,-123.0475,592,NA,NA,NA,NA
+CHEF CREEK TEST,1383,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Coastal Fire Centre,Mid Island Zone,49.4041,-124.7584,669,NA,NA,NA,NA
+CHERRY LAKE,791,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Southeast Fire Centre,Cranbrook Zone,49.1878,-115.5417,1372,NA,NA,NA,NA
+CHETWYND (NC),122,Environment Canada,External,Environment Canada,Prince George Fire Centre,Dawson Creek Zone,55.7,-121.6,610,NA,NA,NA,NA
+CHETWYND FB,4270,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Prince George Fire Centre,Dawson Creek Zone,55.6907,-121.6137,616,NA,NA,NA,NA
+CHILAKO,189,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,Prince George Zone,53.4937,-123.6088,807,NA,NA,NA,NA
+CHURN CREEK,832,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Cariboo Fire Centre,Central Cariboo Zone (Williams Lake),51.4027,-122.3202,1100,NA,NA,NA,NA
+CLAYTON FALLS,1199,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Mid Coast),52.2799,-126.8902,1275,NA,NA,NA,NA
+CLEARWATER HUB,239,Auto-Caller,Hub Station,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),51.6289,-120.0946,440,NA,NA,NA,NA
+COLDSCAUR LAKE,232,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),51.7238,-120.3899,1122,NA,NA,NA,NA
+COQUITLAM GVRD,556,Auto-Caller,Weather Station - GOES,Greater Vancouver Water District,Coastal Fire Centre,Fraser Zone,49.386,-122.77,430,NA,NA,NA,NA
+CRANBERRY,433,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Bulkley Zone (Kispiox),55.5768,-128.7048,496,NA,NA,NA,NA
+CRANBROOK,426,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Southeast Fire Centre,Cranbrook Zone,49.6673,-115.8483,996,NA,NA,NA,NA
+CRAWFORD,873,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Columbia Zone,50.765,-117.9578,887,NA,NA,NA,NA
+CURWEN CREEK,352,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Vernon Zone (Vernon),50.6022,-118.4229,1286,NA,NA,NA,NA
+DARCY,292,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Pemberton Zone,50.5217,-122.4978,334,NA,NA,NA,NA
+DARKWOODS,1203,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Kootenay Lake Zone,49.3576,-116.9502,1657,NA,NA,NA,NA
+DAWSON CREEK (NC),435,Environment Canada,External,Environment Canada,Prince George Fire Centre,Dawson Creek Zone,55.8,-120.2,655,NA,NA,NA,NA
+DEASE LAKE FS,108,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Cassiar Zone,58.4258,-130.0187,797,NA,NA,NA,NA
+DECEPTION,251,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Cariboo Fire Centre,100 Mile House Zone,51.967,-120.608,1170,NA,NA,NA,NA
+DEWAR CREEK,421,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Cranbrook Zone,49.7845,-116.383,1608,NA,NA,NA,NA
+DOWNIE,905,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Columbia Zone,51.5154,-118.2721,757,NA,NA,NA,NA
+DOWNTON SF,515,Non-Reporting,Store Forward,BC Wildfire Service,Cariboo Fire Centre,Quesnel Zone,52.71,-124.855,2365,NA,NA,NA,NA
+DUNCAN,385,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Kootenay Lake Zone,50.7808,-117.1805,1376,NA,NA,NA,NA
+EAST BARRIERE,243,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),51.2531,-119.8817,631,NA,NA,NA,NA
+EAST OOTSA,170,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Nadina Zone (Lakes),53.5025,-125.7793,1086,NA,NA,NA,NA
+EIGHT MILE,391,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Boundary Zone,49.4328,-118.5783,1338,NA,NA,NA,NA
+ELK MOUNTAIN,438,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Fort Nelson Zone,59.3336,-125.5114,437,NA,NA,NA,NA
+ELKO,412,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Southeast Fire Centre,Cranbrook Zone,49.2876,-115.1545,876,NA,NA,NA,NA
+EMILY CREEK,425,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Southeast Fire Centre,Invermere Zone,50.1451,-115.9772,1190,NA,NA,NA,NA
+FALLS CREEK,383,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Arrow Zone,50.383,-117.8799,790,NA,NA,NA,NA
+FIDELITY,1263,Auto-Caller,Weather Station - GOES,Parks Canada,Southeast Fire Centre,Columbia Zone,51.2344,-117.681,1308,NA,NA,NA,NA
+FINTRY,298,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Kamloops Fire Centre,Vernon Zone (Vernon),50.2062,-119.4804,526,NA,NA,NA,NA
+FIRESIDE,440,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Fort Nelson Zone,59.7226,-127.335,735,NA,NA,NA,NA
+FIVE MILE,1029,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Lillooet Zone,50.9109,-122.6889,875,NA,NA,NA,NA
+FLATHEAD 2,418,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Cranbrook Zone,49.0791,-114.5373,1311,NA,NA,NA,NA
+FOGHORN  SF,473,Non-Reporting,Store Forward,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),51.5015,-119.9323,2241,NA,NA,NA,NA
+FORD MOUNTAIN,1144,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Fraser Zone,49.1039,-121.6376,372,NA,NA,NA,NA
+FORRESTKERR,1377,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Cassiar Zone,56.7116,-130.6784,276,NA,NA,NA,NA
+FORT NELSON FS,599,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,Fort Nelson Zone,58.8418,-122.5736,375,NA,NA,NA,NA
+FORT ST JAMES,146,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Prince George Fire Centre,VanJam Zone (Fort St. James),54.3942,-124.2611,720,NA,NA,NA,NA
+FORT ST JOHN (NC),434,Environment Canada,External,Environment Canada,Prince George Fire Centre,Fort St. John Zone,56.3,-120.7,695,NA,NA,NA,NA
+FRANK CREEK,1375,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Fraser Zone,49.8747,-122.2816,308,NA,NA,NA,NA
+FRENCH BAR,306,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Lillooet Zone,51.1775,-122.2489,1320,NA,NA,NA,NA
+FROTH-WIND,474,Auto-Caller,Store Forward,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),52.0105,-119.255,2149,NA,NA,NA,NA
+GANOKWA,182,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Bulkley Zone,54.8013,-126.9484,855,NA,NA,NA,NA
+GASPARD,222,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Cariboo Fire Centre,Central Cariboo Zone (Williams Lake),51.4517,-122.6617,1675,NA,NA,NA,NA
+GAVIN,227,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Cariboo Fire Centre,Central Cariboo Zone (Horsefly),52.47,-121.7417,1081,NA,NA,NA,NA
+GLIMPSE,291,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Kamloops Fire Centre,Merritt Zone,50.2704,-120.2883,1372,NA,NA,NA,NA
+GOATFELL,401,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Southeast Fire Centre,Kootenay Lake Zone,49.1253,-116.1638,1098,NA,NA,NA,NA
+GOATHAVEN,886,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Cranbrook Zone,49.6673,-115.2144,1063,NA,NA,NA,NA
+GOATLICK,3191,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Robson Valley Zone,52.5074,-118.7743,957,NA,NA,NA,NA
+GOLD HILL,379,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Kootenay Lake Zone,50.3658,-117.0645,800,NA,NA,NA,NA
+GOLDSTREAM 2,919,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Columbia Zone,51.6694,-118.4871,1333,NA,NA,NA,NA
+GOSNEL,270,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,Robson Valley Zone,52.4526,-119.1753,1873,NA,NA,NA,NA
+GRAHAM,124,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Fort St. John Zone,56.4346,-122.4576,759,NA,NA,NA,NA
+GRAND FORKS,392,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Southeast Fire Centre,Boundary Zone,49.0307,-118.4156,630,NA,NA,NA,NA
+GRASSY PLAINS HUB,161,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Northwest Fire Centre,Nadina Zone (Lakes),53.9454,-125.8761,938,NA,NA,NA,NA
+GREENSTONE HUB,321,Auto-Caller,Hub Station,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),50.6112,-120.6415,1780,NA,NA,NA,NA
+GRIZZLY EXT,1332,Auto-Caller,External,BC Wildfire Service,Kamloops Fire Centre,Penticton Zone,49.27,-119.2203,1534,NA,NA,NA,NA
+GWYNETH LAKE,309,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Lillooet Zone,50.7963,-122.8805,1191,NA,NA,NA,NA
+HAGENSBORG 2,904,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Mid Coast),52.3873,-126.5897,47,NA,NA,NA,NA
+HAIG CAMP,67,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Coastal Fire Centre,Fraser Zone,49.3806,-121.5259,42,NA,NA,NA,NA
+HAINES JUNCTION YFS,964,Auto-Caller,Weather Station - GOES,Yukon Forest Service,Northwest Fire Centre,Cassiar Zone,60.773,-137.5762,610,NA,NA,NA,NA
+HARBOUR LAKE,250,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),51.5227,-119.1133,1516,NA,NA,NA,NA
+HELMUT,118,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Fort Nelson Zone,59.4211,-120.7889,588,NA,NA,NA,NA
+HIXON,187,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Prince George Fire Centre,Prince George Zone,53.4114,-122.5961,640,NA,NA,NA,NA
+HOLY CROSS 2,654,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,VanJam Zone (Vanderhoof),53.9362,-124.7765,961,NA,NA,NA,NA
+HOMATHKO,1349,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Sunshine Coast Zone,51.1019,-124.9502,1481,NA,NA,NA,NA
+HONNA,93,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Coastal Fire Centre,Fraser Zone,53.2532,-132.1156,21,443,173.181.139.76:48053,f123a2e6-fdcf-460a-bfd1-409f859bb62d,6
+HORSEFLY,230,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Cariboo Fire Centre,Central Cariboo Zone (Horsefly),52.3278,-121.3983,701,NA,NA,NA,NA
+HOUSTON,162,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Northwest Fire Centre,Nadina Zone (Morice),54.3939,-126.6175,619,NA,NA,NA,NA
+HUDSON HOPE,132,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Prince George Fire Centre,Dawson Creek Zone,56.0347,-121.9903,697,NA,NA,NA,NA
+IDABEL LAKE 3,876,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Penticton Zone,49.7672,-119.1241,1246,NA,NA,NA,NA
+INGENIKA POINT,145,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Mackenzie Zone,57.0194,-125.1804,680,NA,NA,NA,NA
+INKANEEP 2 EXT,2170,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Penticton Zone,49.1167,-119.3,1384,NA,NA,NA,NA
+IRON CREEK YFS,965,Auto-Caller,Weather Station - GOES,Yukon Forest Service,Northwest Fire Centre,Cassiar Zone,60.0069,-127.9276,674,NA,NA,NA,NA
+ISKUT,112,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Cassiar Zone,57.8617,-130.0181,857,NA,NA,NA,NA
+JERRY,190,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,Prince George Zone,53.5264,-122.1064,979,NA,NA,NA,NA
+JOHNSON LAKE,419,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Southeast Fire Centre,Invermere Zone,49.9444,-115.7583,853,NA,NA,NA,NA
+KASIKS PNG,4332,Auto-Caller,External,BC Wildfire Service,Northwest Fire Centre,Skeena Zone (Kalum),54.3233,-129.3252,10,NA,NA,NA,NA
+KETCHIKA,444,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Fort Nelson Zone,58.727,-127.125,687,NA,NA,NA,NA
+KETTLE 2,388,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Kamloops Fire Centre,Vernon Zone (Vernon),49.96,-118.626,1389,NA,NA,NA,NA
+KIMPTON SF,1163,Non-Reporting,Store Forward,BC Wildfire Service,Southeast Fire Centre,Invermere Zone,50.5708,-115.8542,2371,NA,NA,NA,NA
+KISPIOX HUB,428,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Northwest Fire Centre,Bulkley Zone (Kispiox),55.4343,-127.6487,328,NA,NA,NA,NA
+KITPARK,106,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Skeena Zone (Kalum),54.1696,-128.5759,55,NA,NA,NA,NA
+KLINAKLINI,1348,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Port McNeill),51.38,-125.7695,1532,NA,NA,NA,NA
+KLUSKUS,166,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,VanJam Zone (Vanderhoof),53.383,-124.5121,1125,NA,NA,NA,NA
+KNIFE,225,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Cariboo Fire Centre,Central Cariboo Zone (Williams Lake),52.0497,-121.8738,821,NA,NA,NA,NA
+KOMIE,4232,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Fort Nelson Zone,59.3394,-122.0718,704,NA,NA,NA,NA
+KOOCANUSA,1075,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Southeast Fire Centre,Cranbrook Zone,49.0469,-115.2253,804,NA,NA,NA,NA
+LARCH HILLS WEST,1323,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Kamloops Fire Centre,Vernon Zone (Vernon),50.6906,-119.1761,904,NA,NA,NA,NA
+LAVINA SF,502,Non-Reporting,Store Forward,BC Wildfire Service,Southeast Fire Centre,Kootenay Lake Zone,50.2533,-116.8967,2259,NA,NA,NA,NA
+LEIGHTON LAKE,307,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),50.6153,-120.8362,1153,NA,NA,NA,NA
+LEMORAY,140,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Dawson Creek Zone,55.525,-122.5172,747,NA,NA,NA,NA
+LEO CREEK,171,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,VanJam Zone (Fort St. James),55.0817,-125.4773,909,NA,NA,NA,NA
+LIKELY RS,255,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Cariboo Fire Centre,Central Cariboo Zone (Horsefly),52.615,-121.5133,1046,NA,NA,NA,NA
+LILLOOET,280,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Kamloops Fire Centre,Lillooet Zone,50.672,-121.8882,408,NA,NA,NA,NA
+LITTLE CHOPAKA,3810,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Penticton Zone,49.0251,-119.6909,461,NA,NA,NA,NA
+LONE BUTTE,218,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Cariboo Fire Centre,100 Mile House Zone,51.507,-121.162,1158,NA,NA,NA,NA
+LOVELL COVE,163,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,VanJam Zone (Fort St. James),55.6881,-126.0525,981,NA,NA,NA,NA
+LOWER BEAVER,1264,Auto-Caller,Weather Station - GOES,Parks Canada,Southeast Fire Centre,Columbia Zone,51.4149,-117.4741,835,NA,NA,NA,NA
+LOWER CAIN,1350,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Port McNeill),50.2258,-126.3563,1295,NA,NA,NA,NA
+MABEL LAKE 2,362,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Kamloops Fire Centre,Vernon Zone (Vernon),50.3514,-118.7735,562,NA,NA,NA,NA
+MACHMELL,101,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Mid Coast),51.5931,-126.4508,344,NA,NA,NA,NA
+MACHMELL KLINIKLINI,1276,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Mid Coast),51.6556,-126.1407,1609,NA,NA,NA,NA
+MACKENZIE (NC),142,Environment Canada,External,Environment Canada,Prince George Fire Centre,Mackenzie Zone,55.3,-123.1,690,NA,NA,NA,NA
+MACKENZIE FS,155,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Prince George Fire Centre,Mackenzie Zone,55.2864,-123.1358,697,NA,NA,NA,NA
+MANSON,141,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Mackenzie Zone,55.5798,-124.2321,1038,NA,NA,NA,NA
+MARION,367,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Southeast Fire Centre,Columbia Zone,51.0422,-116.3638,1300,NA,NA,NA,NA
+MARTINS GULCH (CRD),1141,Capital Regional District,External,Capital Regional District,Coastal Fire Centre,South Island Zone,48.5161,-123.7644,512,NA,NA,NA,NA
+MATHEW,263,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Cariboo Fire Centre,Quesnel Zone,52.91,-120.9117,1108,NA,NA,NA,NA
+MAYSON,1082,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),51.2112,-120.412,1311,NA,NA,NA,NA
+MCBRIDE,195,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Prince George Fire Centre,Robson Valley Zone,53.2948,-120.153,714,NA,NA,NA,NA
+MCBRIDE LAKE,180,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Nadina Zone (Morice),54.0747,-127.3994,810,NA,NA,NA,NA
+MCCUDDY,334,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Kamloops Fire Centre,Penticton Zone,49.1483,-119.415,1023,NA,NA,NA,NA
+MCGREGOR 2,192,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Prince George Zone,53.9289,-120.6355,979,NA,NA,NA,NA
+MCLEAN LAKE,311,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),50.7923,-121.3581,1123,NA,NA,NA,NA
+MCLEOD LAKE,153,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,Prince George Zone,54.7442,-123.0187,867,NA,NA,NA,NA
+MCLEOD MEADOWS,1242,Auto-Caller,Weather Station - GOES,Parks Canada,Southeast Fire Centre,Invermere Zone,50.7691,-115.9508,1132,NA,NA,NA,NA
+MCNULTY EXT,1392,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Merritt Zone,49.5557,-120.1732,1595,NA,NA,NA,NA
+MEADOW LAKE,236,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Cariboo Fire Centre,100 Mile House Zone,51.375,-121.7167,1070,NA,NA,NA,NA
+MEAGER CREEK,1083,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Pemberton Zone,50.62,-123.4101,549,NA,NA,NA,NA
+MENZIES CAMP,19,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Campbell River),50.0486,-125.7887,435,NA,NA,NA,NA
+MERRITT 2 HUB,1399,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Kamloops Fire Centre,Merritt Zone,50.1214,-120.7442,640,NA,NA,NA,NA
+MESACHIE 2,934,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Coastal Fire Centre,South Island Zone,48.8228,-124.1371,185,NA,NA,NA,NA
+MIDDLE LAKE,226,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Cariboo Fire Centre,Chilcotin Zone,51.7017,-124.875,915,NA,NA,NA,NA
+MOOSE LAKE,165,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,VanJam Zone (Vanderhoof),53.0715,-125.4121,1094,NA,NA,NA,NA
+MOUNT CAYLEY,1221,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Pemberton Zone,50.0708,-123.2771,1592,NA,NA,NA,NA
+MOUNT MOORE  SF,476,Non-Reporting,Store Forward,BC Wildfire Service,Kamloops Fire Centre,Penticton Zone,49.885,-118.8133,2162,NA,NA,NA,NA
+MUDPIT,1176,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),51.3127,-119.3926,884,NA,NA,NA,NA
+MUSKWA,131,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Fort Nelson Zone,57.8842,-123.6164,769,NA,NA,NA,NA
+NABESHE,151,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Mackenzie Zone,56.3643,-123.3655,1103,NA,NA,NA,NA
+NADINA,179,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Northwest Fire Centre,Nadina Zone (Morice),53.9425,-126.9278,954,NA,NA,NA,NA
+NAHATLATCH,316,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Fraser Zone,49.9018,-122.0209,551,NA,NA,NA,NA
+NANCY GREENE,407,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Southeast Fire Centre,Arrow Zone,49.2545,-117.9942,1397,NA,NA,NA,NA
+NASS CAMP,427,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Skeena Zone (Kalum),55.2886,-128.9984,176,NA,NA,NA,NA
+NATAL SF,505,Non-Reporting,Store Forward,BC Wildfire Service,Southeast Fire Centre,Cranbrook Zone,49.6314,-114.8533,2262,NA,NA,NA,NA
+NAZKO,211,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Cariboo Fire Centre,Quesnel Zone,52.9575,-123.5958,910,NA,NA,NA,NA
+NEL-X DL,464,Non-Reporting,Download,BC Wildfire Service,Prince George Fire Centre,Fort Nelson Zone,58.8513,-122.8351,668,NA,NA,NA,NA
+NELSON FORKS,119,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Fort Nelson Zone,59.6173,-124.0985,660,NA,NA,NA,NA
+NEMIAH,216,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Cariboo Fire Centre,Chilcotin Zone,51.48,-123.8183,1220,NA,NA,NA,NA
+NICOLL,393,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Boundary Zone,49.5267,-118.3603,866,NA,NA,NA,NA
+NILKITKWA,172,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Northwest Fire Centre,Bulkley Zone,55.538,-126.5775,969,NA,NA,NA,NA
+NOEL,437,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,Dawson Creek Zone,55.2956,-120.485,977,NA,NA,NA,NA
+NORNS,408,Auto-Caller,Store Forward,BC Wildfire Service,Southeast Fire Centre,Arrow Zone,49.5025,-117.787,2423,NA,NA,NA,NA
+NORTH BABINE,173,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Northwest Fire Centre,Nadina Zone (Morice),55.135,-126.2073,951,NA,NA,NA,NA
+NORTH BASIN (CRD),1166,Capital Regional District,External,Capital Regional District,Coastal Fire Centre,South Island Zone,48.5722,-123.7068,180,NA,NA,NA,NA
+NORTH CHILCO,159,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,VanJam Zone (Vanderhoof),54.1546,-123.7542,836,NA,NA,NA,NA
+NORTH COWICHAN (EC),1013,Environment Canada,External,Environment Canada,Coastal Fire Centre,South Island Zone,48.8242,-123.7189,60,NA,NA,NA,NA
+OCTOPUS CREEK,396,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Arrow Zone,49.699,-118.081,1432,NA,NA,NA,NA
+OLD FADDY,1270,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Cassiar Zone,59.8929,-129.0939,866,607,66b5475d99a271067ca51c37,f123a2e6-fdcf-460a-bfd1-409f859bb62d,8
+ONE MILE,1261,Auto-Caller,Weather Station - GOES,Parks Canada,Southeast Fire Centre,Columbia Zone,51.022,-118.2072,527,NA,NA,NA,NA
+OSBORN,1045,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Fort St. John Zone,56.5553,-120.3952,700,NA,NA,NA,NA
+PADDY,121,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Fort St. John Zone,57.7818,-120.2368,722,NA,NA,NA,NA
+PALLISER,411,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Southeast Fire Centre,Invermere Zone,50.4946,-115.6664,1100,NA,NA,NA,NA
+PARROTT,183,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Northwest Fire Centre,Nadina Zone (Morice),54.0186,-126.389,1259,NA,NA,NA,NA
+PASKA LAKE,326,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),50.504,-120.674,1488,NA,NA,NA,NA
+PEAVINE  SF,520,Non-Reporting,Store Forward,BC Wildfire Service,Cariboo Fire Centre,Central Cariboo Zone (Williams Lake),51.9233,-122.205,1391,NA,NA,NA,NA
+PEDEN,178,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Northwest Fire Centre,Nadina Zone (Morice),53.9868,-126.5174,747,NA,NA,NA,NA
+PEMBERTON BASE,301,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Coastal Fire Centre,Pemberton Zone,50.3059,-122.7287,203,NA,NA,NA,NA
+PENDOREILLE,402,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Arrow Zone,49.0506,-117.4139,725,NA,NA,NA,NA
+PENTICTON RS,328,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Kamloops Fire Centre,Penticton Zone,49.5177,-119.5529,492,NA,NA,NA,NA
+PERSEVERANCE,1347,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Campbell River),49.5936,-125.1313,970,NA,NA,NA,NA
+PG CENTRAL,1248,Auto-Caller,Download,BC Wildfire Service,Prince George Fire Centre,Prince George Zone,53.9025,-122.7962,1985,NA,NA,NA,NA
+PINE CREEK,938,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Bulkley Zone,54.683,-127.3234,1300,NA,NA,NA,NA
+PINK MOUNTAIN,129,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Fort St. John Zone,57.0874,-122.5912,989,NA,NA,NA,NA
+PLACE LAKE,212,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Cariboo Fire Centre,Central Cariboo Zone (Williams Lake),51.8167,-122,1065,NA,NA,NA,NA
+PLUMMER HUT,1387,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Cariboo Fire Centre,Chilcotin Zone,51.3735,-125.1645,2712,NA,NA,NA,NA
+PORT HARDY AP (EC),2,Environment Canada,External,Environment Canada,Coastal Fire Centre,North Island Mid Coast Zone (Port McNeill),50.7,-127.4,22,NA,NA,NA,NA
+POWDER CREEK,380,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Southeast Fire Centre,Kootenay Lake Zone,49.9065,-116.8551,1019,NA,NA,NA,NA
+POWELL RIVER WEST LAKE,1218,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Sunshine Coast Zone,49.818,-124.4499,160,NA,NA,NA,NA
+PRAIRIE CREEK,264,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Cariboo Fire Centre,Central Cariboo Zone (Horsefly),52.3917,-120.985,1015,NA,NA,NA,NA
+PRINCE GEORGE (EC),186,Environment Canada,External,Environment Canada,Prince George Fire Centre,Prince George Zone,53.9,-122.7,691,NA,NA,NA,NA
+PRINCE RUPERT (EC),88,Environment Canada,External,Environment Canada,Northwest Fire Centre,Skeena Zone (North Coast),54.3,-130.4,35,NA,NA,NA,NA
+PROMONTORY  SF,478,Non-Reporting,Store Forward,BC Wildfire Service,Kamloops Fire Centre,Merritt Zone,50.1949,-120.973,1735,NA,NA,NA,NA
+PUNTZI MOUNTAIN (EC),203,Environment Canada,External,Environment Canada,Cariboo Fire Centre,Chilcotin Zone,52.1,-124.2,910,NA,NA,NA,NA
+PUNTZI SF,1170,Non-Reporting,Store Forward,BC Wildfire Service,Cariboo Fire Centre,Chilcotin Zone,52.1614,-124.2058,1365,NA,NA,NA,NA
+PURCELL   SF,499,Non-Reporting,Store Forward,BC Wildfire Service,Southeast Fire Centre,Invermere Zone,50.2395,-115.9783,2302,NA,NA,NA,NA
+QD3 SIX MILE SLOUGH,4412,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Kootenay Lake Zone,49.2,-116.6333,534,NA,NA,NA,NA
+QUALICUM AP (EC),1015,Environment Canada,External,Environment Canada,Coastal Fire Centre,Mid Island Zone,49.3333,-124.3833,58,NA,NA,NA,NA
+QUESNEL (EC),229,Environment Canada,External,Environment Canada,Cariboo Fire Centre,Quesnel Zone,53,-122.4,545,NA,NA,NA,NA
+QUINSAM BASE FWX,1093,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Campbell River),50.0267,-125.2929,68,488,173.181.134.41:48031,f123a2e6-fdcf-460a-bfd1-409f859bb62d,13
+RAFT,2512,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),51.765,-119.6751,920,NA,NA,NA,NA
+RED DEER,138,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,Dawson Creek Zone,54.633,-120.5762,1306,NA,NA,NA,NA
+REDSTREAK,1260,Auto-Caller,Weather Station - GOES,Parks Canada,Southeast Fire Centre,Invermere Zone,50.6229,-116.0628,1009,NA,NA,NA,NA
+REVELSTOKE,363,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Southeast Fire Centre,Columbia Zone,51.0603,-118.2172,680,NA,NA,NA,NA
+RISKE CREEK,210,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Cariboo Fire Centre,Central Cariboo Zone (Williams Lake),51.9594,-122.5042,929,NA,NA,NA,NA
+ROCK CREEK,394,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Southeast Fire Centre,Boundary Zone,49.052,-118.9367,609,NA,NA,NA,NA
+ROCKINGHAM,3190,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Robson Valley Zone,52.8643,-118.5203,1123,590,66ad273c99a271067ca51c1d,f123a2e6-fdcf-460a-bfd1-409f859bb62d,8
+RORY CREEK,1092,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Kootenay Lake Zone,50.6126,-116.7933,1580,NA,NA,NA,NA
+ROSSWOOD,105,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Skeena Zone (Kalum),54.9168,-128.8597,239,631,66bfccae99a271067ca51c4e,f123a2e6-fdcf-460a-bfd1-409f859bb62d,8
+ROUND PRAIRIE,788,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Southeast Fire Centre,Cranbrook Zone,50.082,-114.9004,1647,NA,NA,NA,NA
+SALTSPRING 2,45,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,South Island Zone,48.7729,-123.4745,15,632,66bfcce400e01a5a0ce791a6,f123a2e6-fdcf-460a-bfd1-409f859bb62d,8
+SASKATCHEWAN CROSSING,1239,Auto-Caller,Weather Station - GOES,Parks Canada,Southeast Fire Centre,NA,51.968,-116.7148,1442,NA,NA,NA,NA
+SATURNA (EC),915,Environment Canada,External,Environment Canada,Coastal Fire Centre,South Island Zone,48.7833,-123.05,24,NA,NA,NA,NA
+SAWTOOTH,1345,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,VanJam Zone (Fort St. James),55.3144,-125.3484,996,NA,NA,NA,NA
+SCAR CREEK,82,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Sunshine Coast Zone,51.1891,-125.0281,122,NA,NA,NA,NA
+SECHELT (EC),1016,Environment Canada,External,Environment Canada,Coastal Fire Centre,Sunshine Coast Zone,49.4605,-123.7,86,NA,NA,NA,NA
+SEVEREID,1165,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,Prince George Zone,54.1693,-121.6519,799,NA,NA,NA,NA
+SEYMOUR ARM,344,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Vernon Zone (Vernon),51.2735,-118.9147,497,NA,NA,NA,NA
+SEYMOUR GVRD,555,Auto-Caller,Weather Station - GOES,Greater Vancouver Water District,Coastal Fire Centre,Fraser Zone,49.483,-122.95,390,NA,NA,NA,NA
+SICAMOUS,882,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Kamloops Fire Centre,Vernon Zone (Vernon),50.8635,-119.0028,1115,NA,NA,NA,NA
+SIERRA,117,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,Fort Nelson Zone,58.8381,-121.3967,573,NA,NA,NA,NA
+SIFTON,152,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Mackenzie Zone,57.8517,-126.1168,968,NA,NA,NA,NA
+SILVER,120,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Fort St. John Zone,57.3745,-121.4069,835,NA,NA,NA,NA
+SILVERSTAR SF,480,Auto-Caller,Store Forward,BC Wildfire Service,Kamloops Fire Centre,Vernon Zone (Vernon),50.3682,-119.0654,1880,NA,NA,NA,NA
+SINKUT  SF,468,Non-Reporting,Store Forward,BC Wildfire Service,Prince George Fire Centre,VanJam Zone (Vanderhoof),53.817,-123.9717,1488,NA,NA,NA,NA
+SKOONKA,1024,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Lillooet Zone,50.4387,-121.5515,1557,NA,NA,NA,NA
+SLOCAN,406,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Southeast Fire Centre,Arrow Zone,49.7847,-117.44,1230,NA,NA,NA,NA
+SMALLWOOD,404,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Southeast Fire Centre,Kootenay Lake Zone,49.4967,-117.4475,997,NA,NA,NA,NA
+SMITHERS AP (EC),157,Environment Canada,External,Environment Canada,Northwest Fire Centre,Bulkley Zone,54.8242,-127.1894,522,NA,NA,NA,NA
+SMOKEY C DL,918,Non-Reporting,Download,BC Wildfire Service,Cariboo Fire Centre,Central Cariboo Zone (Williams Lake),52.2367,-122.1567,1235,NA,NA,NA,NA
+SPARKS LAKE,305,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),50.9237,-120.8671,960,NA,NA,NA,NA
+SPARWOOD,3110,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Cranbrook Zone,49.8167,-114.8667,1208,NA,NA,NA,NA
+SPLINTLUM,1055,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Lillooet Zone,50.3511,-121.6549,424,NA,NA,NA,NA
+SQUAMISH AP (EC),83,Environment Canada,External,Environment Canada,Coastal Fire Centre,Pemberton Zone,49.7824,-123.1619,60,NA,NA,NA,NA
+STATION BAY 2,1359,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Kamloops Fire Centre,Vernon Zone (Vernon),50.4972,-119.7269,1100,NA,NA,NA,NA
+STOREY DL,459,Non-Reporting,Download,BC Wildfire Service,Northwest Fire Centre,Nadina Zone (Morice),54.8059,-126.1435,738,NA,NA,NA,NA
+SUCCOUR CREEK,374,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Columbia Zone,51.7162,-117.5417,1000,NA,NA,NA,NA
+SUMMIT,11,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Mid Island Zone,48.9276,-124.6469,671,NA,NA,NA,NA
+SUSTUT,156,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,VanJam Zone (Fort St. James),56.3288,-127.0339,819,NA,NA,NA,NA
+SWIFT RIVER YFS,967,Non-Reporting,External,Yukon Forest Service,Northwest Fire Centre,Cassiar Zone,60.0025,-131.1883,878,NA,NA,NA,NA
+TABERNACLE WIND,376,Auto-Caller,Store Forward,BC Wildfire Service,Southeast Fire Centre,Columbia Zone,51.7513,-117.7613,2438,NA,NA,NA,NA
+TABLE RIVER,144,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,Prince George Zone,54.7158,-122.2747,775,NA,NA,NA,NA
+TACHEEDA  SF,465,Non-Reporting,Store Forward,BC Wildfire Service,Prince George Fire Centre,Prince George Zone,54.6817,-122.4867,1290,NA,NA,NA,NA
+TALCHAKO,233,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Mid Coast),52.2514,-126.0284,306,NA,NA,NA,NA
+TATLA LAKE,208,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Cariboo Fire Centre,Chilcotin Zone,51.9067,-124.605,945,NA,NA,NA,NA
+TAUTRI,206,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Cariboo Fire Centre,Central Cariboo Zone (Williams Lake),52.5422,-123.35,1085,NA,NA,NA,NA
+TELEGRAPH CREEK,110,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Cassiar Zone,57.9141,-131.1711,382,NA,NA,NA,NA
+TERRACE,3851,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Skeena Zone (Kalum),54.438,-128.5714,199,NA,NA,NA,NA
+TERRACE (EC),103,Environment Canada,External,Environment Canada,Northwest Fire Centre,Skeena Zone (Kalum),54.5,-128.6,217,NA,NA,NA,NA
+TETRAHEDRON,1313,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Sunshine Coast Zone,49.5979,-123.6051,1422,NA,NA,NA,NA
+THUNDER SF,1198,Non-Reporting,Store Forward,BC Wildfire Service,Prince George Fire Centre,Dawson Creek Zone,54.9542,-120.5917,1400,NA,NA,NA,NA
+THYNNE,279,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Kamloops Fire Centre,Merritt Zone,49.7152,-120.866,1407,NA,NA,NA,NA
+THYNNE  SF,481,Non-Reporting,Store Forward,BC Wildfire Service,Kamloops Fire Centre,Merritt Zone,49.7033,-120.9217,2002,NA,NA,NA,NA
+TIMOTHY,234,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Cariboo Fire Centre,100 Mile House Zone,51.913,-121.389,1161,NA,NA,NA,NA
+TIMOTHY SF,517,Non-Reporting,Store Forward,BC Wildfire Service,Cariboo Fire Centre,100 Mile House Zone,51.9011,-121.26,1662,NA,NA,NA,NA
+TOAD RIVER,126,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,Fort Nelson Zone,58.8659,-125.3107,702,NA,NA,NA,NA
+TOBA CAMP,75,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Sunshine Coast Zone,50.5711,-124.0777,49,NA,NA,NA,NA
+TOBY HUB,417,Auto-Caller,Hub Station,BC Wildfire Service,Southeast Fire Centre,Invermere Zone,50.5128,-116.0553,894,509,173.181.139.55:48050,f123a2e6-fdcf-460a-bfd1-409f859bb62d,13
+TOFINO AIRPORT (PC),2211,Auto-Caller,Weather Station - GOES,Parks Canada,Coastal Fire Centre,Mid Island Zone,49.0868,-125.7786,24,NA,NA,NA,NA
+TOFINO AP (EC),1,Environment Canada,External,Environment Canada,Coastal Fire Centre,Mid Island Zone,49.0781,-125.7696,24,NA,NA,NA,NA
+TROUT LAKE,387,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Arrow Zone,50.6053,-117.4272,991,NA,NA,NA,NA
+TS ARTLISH,995,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Campbell River),50.1324,-126.9282,120,NA,NA,NA,NA
+TS ATLUCK,1378,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Campbell River),50.2651,-127.0835,384,NA,NA,NA,NA
+TS BLACKWATER,1408,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Campbell River),50.1711,-125.5757,289,NA,NA,NA,NA
+TS BURMAN,1362,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Campbell River),49.6102,-126.0327,71,NA,NA,NA,NA
+TS EFFINGHAM,956,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Mid Island Zone,49.17,-125.2825,632,NA,NA,NA,NA
+TS ELPHINSTONE,1002,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Sunshine Coast Zone,49.428,-123.5649,615,NA,NA,NA,NA
+TS MAURELLE,1056,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Sunshine Coast Zone,50.2709,-125.1309,140,NA,NA,NA,NA
+TS MCNABB,1066,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Sunshine Coast Zone,49.5855,-123.3873,140,NA,NA,NA,NA
+TS NAHMINT,1398,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Mid Island Zone,49.2075,-125.1218,354,NA,NA,NA,NA
+TS NAKA CREEK,945,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Campbell River),50.3701,-126.4339,515,NA,NA,NA,NA
+TS SAN JUAN,944,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,South Island Zone,48.5713,-124.2,294,NA,NA,NA,NA
+TS THEODOSIA,1025,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,Sunshine Coast Zone,50.1035,-124.6146,103,NA,NA,NA,NA
+TS TSITIKA,4393,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Campbell River),50.3752,-126.5401,211,NA,NA,NA,NA
+TSAR CREEK,361,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Southeast Fire Centre,Columbia Zone,51.9972,-118.1025,1200,NA,NA,NA,NA
+TSUS SF,1106,Non-Reporting,Store Forward,BC Wildfire Service,Prince George Fire Centre,Prince George Zone,53.6932,-121.918,2000,NA,NA,NA,NA
+TUMBLER HUB,127,Auto-Caller,Hub Station,BC Wildfire Service,Prince George Fire Centre,Dawson Creek Zone,55.0274,-120.934,932,NA,NA,NA,NA
+TURTLE,286,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Kamloops Fire Centre,Vernon Zone (Vernon),50.8036,-119.6307,660,NA,NA,NA,NA
+TWO SISTERS  SF,518,Non-Reporting,Store Forward,BC Wildfire Service,Cariboo Fire Centre,Quesnel Zone,53.2167,-121.5517,2110,NA,NA,NA,NA
+UBC RESEARCH,72,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Coastal Fire Centre,Fraser Zone,49.2645,-122.5732,146,NA,NA,NA,NA
+UPPER BEAVER,1265,Auto-Caller,Weather Station - GOES,Parks Canada,Southeast Fire Centre,Columbia Zone,51.3145,-117.3741,1638,NA,NA,NA,NA
+UPPER FULTON,169,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Northwest Fire Centre,Bulkley Zone,55.034,-126.7996,900,NA,NA,NA,NA
+UPPER KISPIOX,431,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Bulkley Zone (Kispiox),55.6015,-128.0478,410,NA,NA,NA,NA
+VALEMOUNT 2,200,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,Robson Valley Zone,52.7883,-119.3147,1163,NA,NA,NA,NA
+VALEMOUNT AIRPORT,1268,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Prince George Fire Centre,Robson Valley Zone,52.8597,-119.3386,788,NA,NA,NA,NA
+VAN DYKE,430,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Northwest Fire Centre,Skeena Zone (Kalum),56.0127,-129.0998,296,NA,NA,NA,NA
+VANCOUVER AP (EC),69,Environment Canada,External,Environment Canada,Coastal Fire Centre,Fraser Zone,49.2,-123.2,1,NA,NA,NA,NA
+VANDERHOOF HUB,158,Auto-Caller,Hub Station,BC Wildfire Service,Prince George Fire Centre,VanJam Zone (Vanderhoof),54.0554,-124.0102,681,NA,NA,NA,NA
+VAVENBY MTN,2513,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),51.5561,-119.7382,1069,NA,NA,NA,NA
+VERMILLION CROSSING,1241,Auto-Caller,Weather Station - GOES,Parks Canada,Southeast Fire Centre,Columbia Zone,51.0234,-115.9789,1277,NA,NA,NA,NA
+VICTORIA AP (EC),49,Environment Canada,External,Environment Canada,Coastal Fire Centre,South Island Zone,48.6482,-123.4288,19,NA,NA,NA,NA
+WELLS GRAY,266,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Kamloops Fire Centre,Kamloops Zone (Kamloops),52.3425,-120.2434,958,NA,NA,NA,NA
+WEST KELOWNA,1277,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Kamloops Fire Centre,Penticton Zone,49.8832,-119.5695,650,NA,NA,NA,NA
+WHISKEY,366,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Southeast Fire Centre,Invermere Zone,51.0653,-116.785,1354,NA,NA,NA,NA
+WHITE RIVER,790,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Southeast Fire Centre,Invermere Zone,50.185,-115.2676,1357,NA,NA,NA,NA
+WILLIAMS LAKE (NC),205,Environment Canada,External,Environment Canada,Cariboo Fire Centre,Central Cariboo Zone (Williams Lake),52.2,-122.1,940,NA,NA,NA,NA
+WILLIS,3873,Auto-Caller,External,BC Wildfire Service,Kamloops Fire Centre,Merritt Zone,49.3394,-120.4071,1455,NA,NA,NA,NA
+WINDY MOUNTAIN,244,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Cariboo Fire Centre,100 Mile House Zone,51.67,-120.65,1580,NA,NA,NA,NA
+WITCH,154,Auto-Caller,Weather Station - GOES,BC Wildfire Service,Prince George Fire Centre,VanJam Zone (Fort St. James),55.023,-124.2666,1041,NA,NA,NA,NA
+WONOWON,136,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Prince George Fire Centre,Fort St. John Zone,56.7184,-121.7654,958,NA,NA,NA,NA
+WOSS CAMP,21,Auto-Caller,Weather Station - Cell,BC Wildfire Service,Coastal Fire Centre,North Island Mid Coast Zone (Port McNeill),50.2132,-126.6071,151,NA,NA,NA,NA
+YAHK SF,504,Non-Reporting,Store Forward,BC Wildfire Service,Southeast Fire Centre,Cranbrook Zone,49.1928,-115.6986,2182,NA,NA,NA,NA
+YOUNG LAKE,235,Auto-Caller,Weather Station - UHF,BC Wildfire Service,Cariboo Fire Centre,100 Mile House Zone,51.2378,-120.9976,1170,NA,NA,NA,NA
