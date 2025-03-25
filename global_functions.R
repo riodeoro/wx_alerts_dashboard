@@ -189,9 +189,9 @@ fetch_data_from_db <- function(conn, table, num_entries = NULL, selected_date = 
     
     if (!is.null(data) && nrow(data) > 0 && !is.null(data$DateTimeNum)) {
       # Convert dates using base R date conversion
-      origin <- as.POSIXct("1899-12-30", tz = "UTC")
+     origin <- as.POSIXct("1899-12-30", tz = "America/Los_Angeles")
 data$DateTimeNum <- format(
-  with_tz(origin + as.numeric(data$DateTimeNum) * 86400, "America/Los_Angeles"),
+  origin + as.numeric(data$DateTimeNum) * 86400,
   "%Y-%b-%d %H:%M:%S"
 )
     }
